@@ -1,0 +1,3 @@
+This project is called the tracker drone. The idea is that it tracks any object requested by the user. It has many applications like a real-time recording of sports events (skiing, snowboarding), or to follow a suspect in an event of shooting/crime around the school.
+
+The drone can be controlled through the computer that can run Node.JS. The connection between the computer and drone is done through wifi. The Node.JS interface we are using is modeled by eschnou[1]. It has web-based interface making the user control the drone from a browser. This interface provides autonomous flight, gamepad control, and object tracking. Although we didn’t reach our final milestone or the idea described above the information below will help to build upon the work we accomplished so far.
